@@ -5,9 +5,12 @@
 
 ### Datos Personales
 - Mi nombre es Alan
-- Vivo en
+- Vivo en Moreno
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Este es mi segundo contacto con github
+- Tengo un gato que se llama Roxy
+
+### Intereses
+- Pan
