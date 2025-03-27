@@ -35,4 +35,6 @@ videojuegos.
 
 ### Un Gato
 - Dejo la imagen de un gato, ya que este se parece al mío.
+
+
 ![Un Gato](./catimg.jpg)
